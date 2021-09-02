@@ -1,0 +1,18 @@
+h4{
+    border: 30px solid tomato;
+    border-radius: 10px;
+    background-color: lightcoral;
+    margin-top: 2%;
+}
+
+h1{
+   color: tomato;
+   font-weight: 900;
+}
+P{
+    font-weight: 600;
+    color: tomato;
+}
+#spinner{
+    display: none;
+}
